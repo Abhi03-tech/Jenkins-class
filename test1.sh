@@ -1,2 +1,2 @@
-welcome to dark
+echo 'welcome to dark'
 date
