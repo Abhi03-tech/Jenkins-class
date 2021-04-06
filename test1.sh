@@ -1,5 +1,3 @@
-echo 'welcome to dark'
+echo 'welcome to dark world'
 date
 cal
-echo 'abhi'
-echo "dark"
